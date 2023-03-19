@@ -1,0 +1,15 @@
+D:\JuninhoDesktop\mi\Programação\C# donet2\Jumpsearch\Jumpsearch\bin\Debug\net6.0\Jumpsearch.exe
+D:\JuninhoDesktop\mi\Programação\C# donet2\Jumpsearch\Jumpsearch\bin\Debug\net6.0\Jumpsearch.deps.json
+D:\JuninhoDesktop\mi\Programação\C# donet2\Jumpsearch\Jumpsearch\bin\Debug\net6.0\Jumpsearch.runtimeconfig.json
+D:\JuninhoDesktop\mi\Programação\C# donet2\Jumpsearch\Jumpsearch\bin\Debug\net6.0\Jumpsearch.dll
+D:\JuninhoDesktop\mi\Programação\C# donet2\Jumpsearch\Jumpsearch\bin\Debug\net6.0\Jumpsearch.pdb
+D:\JuninhoDesktop\mi\Programação\C# donet2\Jumpsearch\Jumpsearch\obj\Debug\net6.0\Jumpsearch.csproj.AssemblyReference.cache
+D:\JuninhoDesktop\mi\Programação\C# donet2\Jumpsearch\Jumpsearch\obj\Debug\net6.0\Jumpsearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\JuninhoDesktop\mi\Programação\C# donet2\Jumpsearch\Jumpsearch\obj\Debug\net6.0\Jumpsearch.AssemblyInfoInputs.cache
+D:\JuninhoDesktop\mi\Programação\C# donet2\Jumpsearch\Jumpsearch\obj\Debug\net6.0\Jumpsearch.AssemblyInfo.cs
+D:\JuninhoDesktop\mi\Programação\C# donet2\Jumpsearch\Jumpsearch\obj\Debug\net6.0\Jumpsearch.csproj.CoreCompileInputs.cache
+D:\JuninhoDesktop\mi\Programação\C# donet2\Jumpsearch\Jumpsearch\obj\Debug\net6.0\Jumpsearch.dll
+D:\JuninhoDesktop\mi\Programação\C# donet2\Jumpsearch\Jumpsearch\obj\Debug\net6.0\refint\Jumpsearch.dll
+D:\JuninhoDesktop\mi\Programação\C# donet2\Jumpsearch\Jumpsearch\obj\Debug\net6.0\Jumpsearch.pdb
+D:\JuninhoDesktop\mi\Programação\C# donet2\Jumpsearch\Jumpsearch\obj\Debug\net6.0\Jumpsearch.genruntimeconfig.cache
+D:\JuninhoDesktop\mi\Programação\C# donet2\Jumpsearch\Jumpsearch\obj\Debug\net6.0\ref\Jumpsearch.dll
